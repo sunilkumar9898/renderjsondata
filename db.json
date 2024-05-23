@@ -91,5 +91,12 @@
                 "https://i.dummyjson.com/data/products/85/thumbnail.jpg"
             ]
         }
-    ]
+    ],
+
+        "POST":[
+            {
+                "name":"SUNIL KUMAR"
+            }
+        ]
+
 }
